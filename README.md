@@ -1,6 +1,12 @@
-Homework for python course. 
-for Cyper Bottcamp with E/asmaa 
+# HOMEWORK1
 
+for python course with cyperSecurity bootcamp ,techcampus.com
 
-Created by/ Rawan 
-Date : 4/3/2020  
+# Describe 
+
+this homework about reverse list  
+
+## Author
+
+by Rawan ali 
+
